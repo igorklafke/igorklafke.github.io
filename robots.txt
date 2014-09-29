@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://igorklafke.github.io/sitemap.xml 
