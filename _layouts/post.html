@@ -6,11 +6,11 @@ layout: default
     
         <h2>{{ page.title }}</h2>
         <div class="post_header">
-            <span><i class="icon-clock"></i><time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%d-%m-%Y"}}</time>&nbsp|</span>
-            <span class="category"><i class="icon-tag"></i> {{ page.categories | category_links }}</span><br/>
+            <span><i class="icon-clock">Publicado em:</i><time datetime="{{page.date|date:"%F"}}"> {{page.date|date:"%d-%m-%Y"}}</time>&nbsp|</span>
+            <span class="category"><i class="icon-tag">Categorias:</i> {{ page.categories | category_links }}</span><br/>
         </div>
         
-        <div class="entry">{{ content }}</div>
+        <div class="entry-content">{{ content }}</div>
 
         <footer><!-- additional info --></footer>
 
