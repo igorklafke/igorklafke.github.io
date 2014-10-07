@@ -35,3 +35,5 @@ Por enquanto o site está bem simples, tanto no layout quanto em funcionalidades
 Na sequencia pretendo adicionar um feed rss, e um sistema de comentários.
 
 Mas por enquanto, dê o seu feedback pelo [Twitter](https://twitter.com/igorklafke)!
+
+Por fim, espero olhar para este post daqui seis meses e sentir vergonha dele, sinal de que terei aprendido alguma coisa.
