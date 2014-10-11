@@ -10,6 +10,7 @@ title: Home
         <div class="post_header">
             <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
             <span class="date"><i class="icon-clock">Publicado em:</i><time datetime="{{post.date|date:"%F"}}"> {{post.date|date:"%d-%m-%Y"}}</time>&nbsp|</span>
+            <span><a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comentários</a>&nbsp|</span>
             <span class="category"><i class="icon-tag">Categorias:</i> {{ post.categories | category_links }}</span><br/>
         </div>
 	
