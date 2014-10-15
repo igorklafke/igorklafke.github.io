@@ -191,6 +191,7 @@ footer {
 article {
   border-bottom: 1px solid #ddd;
   padding-bottom: 30px;
+  margin-bottom:30px;
 }
 article .entry-content {
     text-align: justify;
