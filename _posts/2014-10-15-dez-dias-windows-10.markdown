@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Dez dias com o Windows 10
+subtitle: "Um breve review das principais novidades da próxima versão do Windows"
 category: windows, reviews
-
+date:       2014-10-15 12:00:00
+author:     "Igor Klafke"
+header-img: "img/post-bg-win10.jpg"
 ---
+
 
 No início do mês de outubro, a Microsoft anunciou a próxima versão do Windows, o Windows 10. No dia seguinte foi liberado um *Technical Preview*. Instalei este preview alguns dias depois e tenho utilizado desde então. Neste post tentarei fazer um review deste que é o sucessor do Windows 8. 
  

@@ -1,8 +1,11 @@
 ---
 layout: post
 title: A rede social Ello e o preço de um usuário
+subtitle: "O Ello se diz uma alternativa ao Facebook, mas será que é mesmo?"
 category: Redes sociais
-
+date:       2014-10-11 12:00:00
+author:     "Igor Klafke"
+header-img: "img/post-bg-default.jpg"
 ---
 
 Nas últimas semanas esteve em destaque uma nova rede social, chamada [Ello](https://ello.co/). 

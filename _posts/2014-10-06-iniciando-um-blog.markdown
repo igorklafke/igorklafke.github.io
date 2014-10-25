@@ -2,7 +2,9 @@
 layout: post
 title: Iniciando um blog
 category: Blog
-
+date:       2014-10-06 12:00:00
+author:     "Igor Klafke"
+header-img: "img/home-bg.jpg"
 ---
 
 Chega de desperdiçar palavras. Há algum tempo eu tenho pensado em iniciar um blog, mas sempre existia a dúvida: Sobre o que escrever? Alguém vai ler? 
