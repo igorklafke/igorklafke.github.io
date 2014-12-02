@@ -2,8 +2,6 @@
 published: false
 ---
 
-## Criando um site com GitHub pages
-
 Como expliquei no primeiro post, este blog está hospedado no GitHub Pages, apesar de suportar apenas sites estáticos (_explicar o caso do blog, que é compilado_), é uma alternativa bem útil, pois permite a utilização de um domínio customizado. Neste post vou explicar como criar um site no Github.
 
 **Passo 1:** Criar uma conta no GitHub _link_.
