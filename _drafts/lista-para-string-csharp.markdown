@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#: Lista de strings para string com separador"
+title: "C#: Converter lista de strings para string com separador"
 subtitle: ""
 category: 
 date:       2016-06-23 22:50:00
