@@ -11,11 +11,12 @@ header-img: "img/post-bg-default.jpg"
 
 Já que o blog está parado, vou usar para guardar "lembretes" para mim mesmo mas que no fim possam ser úteis para outras pessoas.
 
-O primeiro caso é converter uma lista de strings no c# para uma única string, separada por vírgula por exemplo.
+O primeiro caso é converter uma lista de strings no c# para uma única string, separada por vírgula por exemplo. Aí entra a mágica do método `string.join`, evitando o `foreach`.
 
-  public static string ListaParaString(List<String> lista)
-  {
-    return string.Join(", ", lista.ToArray());
-  }
-  
+```C#
+public static string ListaParaString(List<String> lista)
+{
+	return string.Join(", ", lista.ToArray());
+}
+```
 Simples.
