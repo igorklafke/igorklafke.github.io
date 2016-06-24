@@ -19,4 +19,5 @@ public static string ListaParaString(List<String> lista)
 	return string.Join(", ", lista.ToArray());
 }
 ```
+
 Simples.
