@@ -10,6 +10,6 @@ facebook_username:  igorklafke
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
 paginate: 5
 exclude: ["node_modules"]
