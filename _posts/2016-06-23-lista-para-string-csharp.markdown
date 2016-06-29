@@ -2,7 +2,7 @@
 layout: post
 title: "C#: Converter lista de strings para string única com separador"
 subtitle: ""
-category: 
+category: csharp
 date:       2016-06-23 18:00:00
 author:     "Igor Klafke"
 header-img: "img/post-bg-default.jpg"
